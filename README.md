@@ -190,8 +190,8 @@ Once running, visit the auto-generated docs:
 
 ---
 ## Render Url
-- **Main url** -> [http://render.com]
-- **Docs** -> [http://render.com/docs]
+- **Main url** -> **[base](https://color-api-cwyb.onrender.com)**
+- **Docs** -> **[docs](https://color-api-cwyb.onrender.com/docs)**
 ## 📄 License
 
 MIT © 2024
