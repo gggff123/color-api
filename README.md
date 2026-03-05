@@ -21,8 +21,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/color-mood-ml-api.git
-cd color-mood-ml-api
+git clone https://github.com/gggff123/color-api.git
+cd color-api
 ```
 
 ### 2. Install dependencies
@@ -189,7 +189,9 @@ Once running, visit the auto-generated docs:
 - **ReDoc** → [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 ---
-
+## Render Url
+- **Main url** -> [http://render.com]
+- **Docs** -> [http://render.com/docs]
 ## 📄 License
 
 MIT © 2024
